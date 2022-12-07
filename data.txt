@@ -1,0 +1,7 @@
+22:16:17  21/11/20
+La configuracion usada de esta fecha es: 
+
+Tiempo del splash: 5 segundos
+CB-EW esta: True
+El parametro esta configurado en: 20 metros
+Se realiza cambio de carril
